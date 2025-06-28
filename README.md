@@ -35,7 +35,7 @@ python main.py
     启动方式
 
     ``` bash
-    python your_app.py --host 127.0.0.1 --port 8000
+    python main.py --host 127.0.0.1 --port 8000
     ```
 
 </details>
@@ -44,7 +44,7 @@ python main.py
     <summary>2. 使用环境变量</summary>
 
     ``` bash
-    HOST=127.0.0.1 PORT=8000 python your_app.py
+    HOST=127.0.0.1 PORT=8000 python main.py
     ```
 
 </details>
